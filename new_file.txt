@@ -1,0 +1,3 @@
+Hello World
+New branch added
+a new stash message
