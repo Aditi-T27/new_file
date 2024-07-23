@@ -4,3 +4,4 @@ a new stash message
 A new message added
 Illustrating Pull
 rebase
+sub-directory
