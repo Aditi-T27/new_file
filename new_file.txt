@@ -8,3 +8,4 @@ sub-directory
 Commit
 Adding an messgae for new commit and display
 An comment
+another addition to commit history to display
