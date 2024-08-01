@@ -7,3 +7,4 @@ rebase
 sub-directory
 Commit-complete :)
 another git approach
+addind data by push
