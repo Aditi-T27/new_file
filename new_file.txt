@@ -5,6 +5,5 @@ A new message added
 Illustrating Pull
 rebase
 sub-directory
-Commit-complete
-
+Commit
 
